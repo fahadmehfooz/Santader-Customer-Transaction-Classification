@@ -1,6 +1,6 @@
-# Santader-Customer-Transaction-Classification
+# Santader-Customer-Transaction-Classification: Project Overview
 
-## Problem Statement: Project Overview
+## Problem Statemen
 
 In this problem, Santander Bank poses a challenge,  in order to help them with the problem of identification of the customers who will make a transaction with the bank in future, irrespective of the amount of money transacted previously with the bank. The data set provided is similar to the real data that is available to solve the problem, although the data that is provided to us for solving the problem is masked completely with only numeric values. The data is anonymous with no Customer details been revealed to the participants of the competition. The data sheet contains 200000 rows for both train and test data. The Train Data set has 202 columns with 200 columns having values for var_1 to var_200, one column for ID code and one column for target, which are the outcome of the transaction. The same columns are present for test data except for the target.
 
