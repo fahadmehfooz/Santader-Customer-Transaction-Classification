@@ -58,6 +58,7 @@ Data has been taken from Kaggle: https://www.kaggle.com/c/santander-customer-tra
 ## Metric For Evaluation
 
 * ROC-AUC
+* Plotted ROC-AUC curves and confusion matrix.
 
 ## Conclusion
 
