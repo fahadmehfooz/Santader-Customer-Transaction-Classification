@@ -25,7 +25,9 @@ Data has been taken from Kaggle: https://www.kaggle.com/c/santander-customer-tra
 * Class imbalance observed. For every observation of class 1, nearly 9 samples of class 0 were there.
 
 
+![alt text](https://github.com/fahadmehfooz/Santader-Customer-Transaction-Classification/blob/main/images/class%20balance.png)
 
+![alt text](https://github.com/fahadmehfooz/Santader-Customer-Transaction-Classification/blob/main/images/skewness.png)
 
 ## Feature Engineering
 
